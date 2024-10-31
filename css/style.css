@@ -23,7 +23,7 @@ html {
 body {
     min-height: 100vh;
     background-color: #ffc501;
-    background-image: url("/img/minisalgado.jpg");
+    background-image: url("../img/minisalgado.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: right;
