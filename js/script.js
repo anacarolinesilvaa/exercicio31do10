@@ -138,3 +138,4 @@ function validateRegisterForm(name, email, password, repeatPassword) {
   
     return errors;
   }
+  
